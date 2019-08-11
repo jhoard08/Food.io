@@ -1,0 +1,16 @@
+.inputBar {
+    padding: 10px;
+    display: block;
+    margin: 0 auto;
+    width: 25%;
+}
+
+input[type='text'] {
+    display: block;
+    margin: 0 auto;
+}
+
+.searchBar {
+    margin-right: auto;
+    margin-left: auto;
+}
